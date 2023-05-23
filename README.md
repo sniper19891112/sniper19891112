@@ -4,10 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h2 align="center">Senior Full Stack Developer.</h2>
-
-<p align="center">
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
-</p>
 <p align="center">
   <a href="https://github.com/H-Builder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20mobile%20developer;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
