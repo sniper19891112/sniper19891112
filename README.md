@@ -5,4 +5,4 @@
 </h1>
 <h2 align="center">Full Stack Developer</h2>
 
-<h3 align="center">My specific skills include Vue.js, TypeScript, Laravel, Node.js, Flutter</h3>
+<h3 align="center">My specific skills include Vue3, React, TypeScript, Laravel, Node.js, Nest.js, Flutter</h3>
